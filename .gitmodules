@@ -1,0 +1,9 @@
+[submodule "Software/BMP280_lib"]
+	path = Software/BMP280_lib
+	url = https://github.com/discover1977/BMP280_lib.git
+[submodule "Software/SPI-Indicator-lib"]
+	path = Software/SPI-Indicator-lib
+	url = https://github.com/discover1977/SPI-Indicator-lib.git
+[submodule "Software/HTSensor"]
+	path = Software/HTSensor
+	url = https://github.com/discover1977/HTSensor.git
